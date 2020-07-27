@@ -24,3 +24,7 @@ NodeJS is licensed under the [MIT license](https://raw.githubusercontent.com/nod
 Node.js is a trademark of Joyent, Inc.
 Trademark policy can be found [here](https://nodejs.org/static/documents/trademark-policy.pdf)
 
+## Notes and credits
+This package is inspired by [Gareth Flowers](https://github.com/garethflowers) [NodeJS Portable](https://github.com/garethflowers/nodejs-portable)
+
+This package is written from scratch and does not use code from other people.
