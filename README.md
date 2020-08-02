@@ -28,3 +28,22 @@ Trademark policy can be found [here](https://nodejs.org/static/documents/tradema
 This package is inspired by [Gareth Flowers](https://github.com/garethflowers) [NodeJS Portable](https://github.com/garethflowers/nodejs-portable)
 
 This package is written from scratch and does not use code from other people.
+
+## Environnment variables
+APPDATA is set to `$INSTDIR\Data\data`
+
+HOME is set to `$INSTDIR\Data\home`
+
+TEMP is set to `$INSTDIR\Data\temp`
+
+USERPROFILE is set to `$INSTDIR\Data\user`
+
+## NodeJS global variables
+prefix is set to `$INSTDIR\Data\home`
+
+globalconfig is set to `$INSTDIR\Data\home\npmrc`
+
+globalignorefile is set to `$INSTDIR\Data\home\npmignore`
+
+## NodeJS global module folder 
+`$INSTDIR\Data\home`
